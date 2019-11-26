@@ -1,0 +1,3 @@
+2019-11-12 17:16:08.870 [      main]TRACE                          - Initializting the log file in before suite
+2019-11-12 17:16:08.885 [      main]TRACE                          - beforetest annotations has been used for the test: Default test
+2019-11-12 17:16:08.941 [      main]TRACE                          - Executing the test case:crmlogoTest

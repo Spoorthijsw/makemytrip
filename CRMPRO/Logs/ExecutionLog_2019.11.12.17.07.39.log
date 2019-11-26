@@ -1,0 +1,11 @@
+2019-11-12 17:07:40.919 [      main]TRACE                          - Initializting the log file in before suite
+2019-11-12 17:07:40.942 [      main]TRACE                          - beforetest annotations has been used for the test: Default test
+2019-11-12 17:07:40.973 [      main]TRACE                          - Executing the test case:launch_Browser
+2019-11-12 17:07:40.989 [      main]INFO                           - Application is launching
+2019-11-12 17:07:49.242 [      main]INFO                           - Browser is launched
+2019-11-12 17:07:49.270 [      main]TRACE                          - Completed the testcase:launch_Browser
+2019-11-12 17:07:49.274 [      main]TRACE                          - Executing the test case:crmlogoTest
+2019-11-12 17:07:49.382 [      main]INFO                           - CRMLOGO test is validated
+2019-11-12 17:07:49.382 [      main]TRACE                          - Completed the testcase:crmlogoTest
+2019-11-12 17:07:49.386 [      main]TRACE                          - Executing the test case:validateloginpageTitleTest
+2019-11-12 17:07:51.147 [      main]TRACE                          - Exceution has been completed

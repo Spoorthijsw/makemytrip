@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [smokesuite]">
+  <test thread-count="5" name="testcase1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.crmpro.com/"/>
+    <classes>
+      <class name="Test.loginpagetest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="aftersuite"/>
+          <include name="beforeTest"/>
+          <include name="resultstatus"/>
+          <include name="validateloginpageTitleTest"/>
+          <include name="afterTest"/>
+          <include name="beforesuite"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- Test.loginpagetest -->
+    </classes>
+  </test> <!-- testcase1(failed) -->
+</suite> <!-- Failed suite [smokesuite] -->
